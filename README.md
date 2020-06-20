@@ -1,5 +1,5 @@
 # Test-game
-This game is in progress. Made in portfolio. Genre Platform
+This game is in progress. Made for portfolio. Genre Platform
 
 Currently implemented only the standard movement and animations for him.
 
